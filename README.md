@@ -1,1 +1,1 @@
-# vp02
+# virtual-pet-2
